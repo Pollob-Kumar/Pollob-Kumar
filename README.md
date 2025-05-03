@@ -52,7 +52,7 @@ _For more projects, check out my [repositories](https://github.com/yourusername?
 ## 📫 How to Reach Me
 
 - **Email:** [pkspollob14@gmail.com](mailto:pkspollob14@gmail.com)  
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/about.pollob)  
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/pollobkumar/)
 - **Portfolio:** [My Portfolio](https://yourportfolio.com)  
 
 ---
