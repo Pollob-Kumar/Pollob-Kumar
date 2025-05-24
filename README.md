@@ -46,6 +46,7 @@ _For more projects, check out my [repositories](https://github.com/yourusername?
 ## 📈 GitHub Stats
 
 ![Pollob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pollob-Kumar&show_icons=true&theme=radical)
+![GitHub Contribution Snake](https://github.com/Pollob-Kumar/Pollob-Kumar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
