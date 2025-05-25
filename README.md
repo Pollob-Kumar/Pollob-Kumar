@@ -39,7 +39,7 @@ I'm a passionate Computer Science and Engineering **(CSE)** student at **Pundra 
 
 3. **[Project Name 3]** - A brief description of your project, the tech stack you used, and the problem it solves. [Link to Repository](#) -->
 
-_For more projects, check out my [repositories](https://github.com/Pollob-Kumar?tab=repositories).
+For more projects, check out my [repositories](https://github.com/Pollob-Kumar?tab=repositories).
 
 ---
 
