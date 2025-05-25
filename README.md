@@ -35,11 +35,11 @@ I'm a passionate Computer Science and Engineering **(CSE)** student at **Pundra 
 
 1. **[bookstore-laravel]** - A simple Bookstore Management System built with Laravel. It helps manage books, categories, and orders easily. [link](https://github.com/Pollob-Kumar/bookstore-laravel.git)
 
-2. **[Project Name 2]** - A brief description of your project, the tech stack you used, and the problem it solves. [Link to Repository](#)  
+<!--- 2. **[Project Name 2]** - A brief description of your project, the tech stack you used, and the problem it solves. [Link to Repository](#)  
 
-3. **[Project Name 3]** - A brief description of your project, the tech stack you used, and the problem it solves. [Link to Repository](#)  
+3. **[Project Name 3]** - A brief description of your project, the tech stack you used, and the problem it solves. [Link to Repository](#) -->
 
-_For more projects, check out my [repositories](https://github.com/yourusername?tab=repositories)._
+_For more projects, check out my [repositories](https://github.com/Pollob-Kumar?tab=repositories).
 
 ---
 
