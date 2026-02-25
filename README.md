@@ -42,19 +42,19 @@ I'm a passionate Computer Science and Engineering **(CSE)** student at **Pundra 
 For more projects, check out my [repositories](https://github.com/Pollob-Kumar?tab=repositories).
 
 ---
-
+<!---
 ## 📈 GitHub Stats
 
 ![Pollob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pollob-Kumar&show_icons=true&theme=radical)
 
-<!--auto switch korbe light/dark mode er opor nirvor kore (Snake animation section starts) -->
+<!--auto switch korbe light/dark mode er opor nirvor kore (Snake animation section starts)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pollob-Kumar/Pollob-Kumar/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pollob-Kumar/Pollob-Kumar/blob/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://github.com/Pollob-Kumar/Pollob-Kumar/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+---   -->
 
 ## 📫 How to Reach Me
 
