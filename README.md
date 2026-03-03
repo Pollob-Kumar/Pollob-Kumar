@@ -13,7 +13,7 @@ I'm a passionate Computer Science and Engineering **(CSE)** student at **Pundra 
 - 🌱 **Currently Learning:** Advanced algorithms, AI/ML, and cloud computing  
 - 💼 **Experience:** Internships coming soon!  
 - 🏆 **Achievements:** Participated in hackathons and open-source projects  
-- 💬 **Ask me about:** Data Structures, Python, Web Development, git and GitHub
+- 💬 **Ask me about:** Data Structures, Python, Web Development, git and GitHub.
 
 ---
 
